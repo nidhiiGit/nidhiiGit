@@ -81,7 +81,9 @@ I'm looking for full-time Software Engineer and entry-level developer opportunit
 
 - 💼 **Portfolio:** [View My Portfolio](YOUR_PORTFOLIO_URL)
 - 💻 **GitHub:** [nidhiiGit](https://github.com/nidhiiGit)
-- 🔗 **LinkedIn:** [Connect with Me](www.linkedin.com/in/nidhiisharmanidhi)
+- 🔗 **LinkedIn:** [Connect with Me]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhiisharmanidhi/)
+
 
 📩 Feel free to reach out for professional opportunities and collaborations!
 
